@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://hesara.live/](https://hesara-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://hesara.live/](https://hesara.live/)
 
 - 📝 I regularly write articles on [https://medium.com/@hesarapasandul632](https://medium.com/@hesarapasandul632)
 
