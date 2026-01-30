@@ -16,6 +16,10 @@
 
   <br /><br />
 
+  <img src="https://github.com/hesara2003/hesara2003/blob/main/github-metrics.svg" alt="Metrics Dashboard" width="100%">
+
+  <br /><br />
+
   <h3>👨‍💻 About Me</h3>
   <p>
     I'm a Frontend Developer from <b>Sri Lanka</b> 🇱🇰.<br>
@@ -34,24 +38,8 @@
   <br />
 
   <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=hesara2003&show_icons=true&locale=en&theme=tokyonight" alt="hesara2003" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hesara2003&theme=tokyonight" width="48%" />
-  <br/><br/>
-</div>
-
-  <br />
-
-  <h3>🐍 My Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hesara2003/hesara2003/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hesara2003/hesara2003/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hesara2003/hesara2003/output/github-contribution-grid-snake.svg">
-  </picture>
-
- <div align="center">
   <h3>👇 Click these buttons to reveal secrets! 👇</h3>
-  
+   
   <details>
     <summary><b>🚀 My Top Projects (Click to Expand)</b></summary>
     <br />
@@ -70,7 +58,6 @@
     <br /><br />
   </details>
 </div>
-
 
   <br /><br />
 
