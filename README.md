@@ -138,6 +138,20 @@ const HESARA: Architect = Architect {
 
 ---
 
+### 🏙️ 3D Isometric Contribution Skyline
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution Skyline" />
+</picture>
+
+</div>
+
+---
+
 ### 📊 Kinetic Telemetry (Live Activity & Streak)
 
 <div align="center">
