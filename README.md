@@ -162,7 +162,7 @@ const HESARA: Architect = Architect {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Hesara2003&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_bust=95" height="175"/>
+<img src="https://streak-stats.demolab.com?user=Hesara2003&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&timezone=Asia/Colombo&cache_bust=98" height="175"/>
 
 </div>
 
